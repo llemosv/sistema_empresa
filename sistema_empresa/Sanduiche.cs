@@ -33,7 +33,7 @@ namespace sistema_empresa
 
             if (alface == true) preco += 0.75;
 
-            return preco *= (peso / 1000);
+            return preco = preco * (peso / 1000);
         }
     }
 }
