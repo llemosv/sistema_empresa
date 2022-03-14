@@ -1,0 +1,16 @@
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\sistema_empresa.csprojAssemblyReference.cache
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\sistema_empresa.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\sistema_empresa.AssemblyInfoInputs.cache
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\sistema_empresa.AssemblyInfo.cs
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\sistema_empresa.csproj.CoreCompileInputs.cache
+D:\FACUL\sistema_empresa\sistema_empresa\bin\Debug\net5.0\sistema_empresa.exe
+D:\FACUL\sistema_empresa\sistema_empresa\bin\Debug\net5.0\sistema_empresa.deps.json
+D:\FACUL\sistema_empresa\sistema_empresa\bin\Debug\net5.0\sistema_empresa.runtimeconfig.json
+D:\FACUL\sistema_empresa\sistema_empresa\bin\Debug\net5.0\sistema_empresa.runtimeconfig.dev.json
+D:\FACUL\sistema_empresa\sistema_empresa\bin\Debug\net5.0\sistema_empresa.dll
+D:\FACUL\sistema_empresa\sistema_empresa\bin\Debug\net5.0\ref\sistema_empresa.dll
+D:\FACUL\sistema_empresa\sistema_empresa\bin\Debug\net5.0\sistema_empresa.pdb
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\sistema_empresa.dll
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\ref\sistema_empresa.dll
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\sistema_empresa.pdb
+D:\FACUL\sistema_empresa\sistema_empresa\obj\Debug\net5.0\sistema_empresa.genruntimeconfig.cache
